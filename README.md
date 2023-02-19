@@ -136,10 +136,10 @@ function Ripple(obj)
 	)
 end
 
-local DarkHubLib = Instance.new("ScreenGui")
-DarkHubLib.Name = "ScrapterStopUwU"
-DarkHubLib.Parent = game.CoreGui
-DarkHubLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+local Cry HubLib = Instance.new("ScreenGui")
+Cry HubLib.Name = "ScrapterStopUwU"
+Cry HubLib.Parent = game.CoreGui
+Cry HubLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 function DarkLib:Window()
 	local firsttab = false
@@ -157,7 +157,7 @@ function DarkLib:Window()
 	local Glow_3 = Instance.new("ImageLabel")
 
 	MainFrame.Name = "MainFrame"
-	MainFrame.Parent = DarkHubLib
+	MainFrame.Parent = CryHubLib
 	MainFrame.BackgroundColor3 = Color3.fromRGB(29, 29, 29)
 	MainFrame.Position = UDim2.new(0.330445558, 0, 0.330043852, 0)
 	MainFrame.Size = UDim2.new(0, 547, 0, 341)
